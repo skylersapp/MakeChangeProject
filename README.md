@@ -24,8 +24,31 @@ In the cash register we will calculate the amount of change returned to a custom
 
 ### **Concepts**
 
+	*While loops
+	*If/Else statements
+	*Math.floor();
+	*Math.round();
+	*use of multiple Methods
+	*use of static field variables
+	*use of objects
+
 ### **Technologies Used**
 
+	*Eclipse IDE
+	*Apple MacBook Pro
+	*Terminal 
+	*GitHub
+	
+
 ### **Challenges**
+	
+	It was difficult for me to figure out how to appropriately get the coins to display at the end of the program. Getting the change to display straightforward, but for some reason my brain just struggled
+	with getting the denominations to display correctly. 
+	
+	Another major challenge was succumbing to a severe migraine headache that lasted for muultiple days. This challenge was not easily overcome and resulted in less-than-optimal coding. 
 
 ### **Lessons Learned**
+	
+	*Get done quickly and early. Always sprint when possible because you never know what issues your health might present you with and whether or not you'll make your deadline. 
+	*Keeping large code blocks split between multiple methods helps in both organization as well as readibility. This greatly makes debugging easier as you write your code and as you refactor. 
+	*
